@@ -61,7 +61,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support PulseGrid’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support PulseGrid’s development through [GitHub Sponsors](https://github.com/sponsors/samdshaba)! Your contributions fund:
 - New enemy wave patterns and levels.
 - Advanced pulse mechanics and network simulations.
 - Tutorials for C++ and game development.
